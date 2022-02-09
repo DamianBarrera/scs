@@ -9,6 +9,7 @@ img{
     height: 100%;
     object-fit: contain;
 }
+ 
 .container{
     margin: 10px 0;
     padding: 5px;
@@ -36,3 +37,65 @@ p{
     border-bottom: 1px solid #eee;
 }
  
+.gallery{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    position: relative;
+}
+
+.card{
+    height: 100%;
+    cursor: pointer;
+}
+.card img{
+    object-fit: cover;
+}
+.volver{
+    margin: 10px;
+    text-align: center;
+     
+}
+.volver button {
+    display: inline-block;
+    width: 90px;
+    height: 40px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(4, 158, 164);
+}
+
+.modal{
+    width: 100vw;
+    height: 100vh;
+    background-color: #222;
+    display: none;
+    position: absolute;
+    top: 0;
+}
+
+.close,
+.prev,
+.next { 
+    padding: 5px;    
+    color: red;
+    background: #000;
+    border-radius: 50%;
+    border: 1px solid red;
+    font-size: 16px;
+    position: absolute;
+}
+.close{
+    top: 10px;
+    left: 10px;
+}
+.prev{
+    top: 50%;
+    left: 10px;
+}
+.next{
+    top: 50%;
+    right: 10px;
+}
