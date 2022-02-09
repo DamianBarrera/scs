@@ -40,7 +40,7 @@ function abrirModal (e) {
         crearImagen(e);
         container.addEventListener('click',(e)=>{
             contadorImg = Array.from(fotos).indexOf(e.target)
-            console.log('hoa')
+             
         }) 
        
     }
