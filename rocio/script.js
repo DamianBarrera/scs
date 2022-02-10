@@ -6,15 +6,14 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const paola = ["paola1.jpg","paola2.jpg","paola3.jpg","paola4.jpg","paola5.jpg"
-,"paola6.jpg","paola7.jpg","paola8.jpg"]
-
+let rocio =["rocio1.jpg","rocio2.jpg","rocio3.jpg","rocio4.jpg","rocio5.jpg","rocio6.jpg",
+"rocio7.jpg","rocio8.jpg","rocio9.jpg","rocio10.jpg"]
 
 
 
 
 // *************************
-paola.forEach( A => crearCard(A) );
+rocio.forEach( A => crearCard(A) );
 container.addEventListener('click', abrirModal);
 close.addEventListener('click',cerrarModal);
 
