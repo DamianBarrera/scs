@@ -7,7 +7,8 @@ const next = document.querySelector('.next');
 let contadorImg = undefined ;
 
 const maca = ["maca1.jpeg","maca2.jpeg","maca3.jpeg","maca4.jpeg","maca5.jpeg","maca6.jpeg","maca7.jpeg",
-"maca8.jpeg","maca9.jpeg","maca10.jpeg","maca11.jpeg","maca12.jpeg","maca13.jpeg","maca14.jpg","maca15.jpg","maca16.jpg","maca17.jpg"]
+"maca8.jpeg","maca9.jpeg","maca10.jpeg","maca11.jpeg","maca12.jpeg","maca13.jpeg","maca14.jpg","maca15.jpg","maca16.jpg","maca17.jpg"
+,"maca18.jpg","macarena19.jpg","febrero 22 jpg.jpg"]
 
 
 
