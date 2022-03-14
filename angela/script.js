@@ -6,10 +6,10 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let angela =["angela1.jpg","angela2.jpg","angela3.jpg","angela4.jpg","angela5.jpg","angela6.jpg","angela7.jpg",
-"angela8.jpg","angela9.jpg","angela10.jpg","angela11.jpg","angela12.jpg","angela13.jpg",
-"angela14.jpg","angela15.jpg","angela16.jpg","angela17.jpg","angela18.jpg","angela19.jpg","angela20.jpg",
-"angela21.jpg","angela21.jpg","angela23.jpg","angela24.jpg","angela25.jpg","angela26.jpg"]
+let angela =["angela9.jpg","angela8.jpg","angela7.jpg","angela6.jpg","angela5.jpg","angela4.jpg","angela3.jpg",
+"angela1.jpg","angela11.jpg","angela12.jpg","angela13.jpg","angela14.jpg","angela15.JPG","angela16.jpg",
+"angela17.jpg","angela18.JPG","angela19.JPG","angela10.JPG","angela2.jpg","angela20.JPG",
+"angela21.jpg","angela22.jpg","angela23.jpg","angela24.jpg","angela25.jpg","angela26.jpg"]
 
 
 
