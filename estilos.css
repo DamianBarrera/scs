@@ -17,7 +17,7 @@ a{
     text-decoration: none;
 }
  section p:first-child{
-     color: rgb(0, 162, 255);
+     color: #1900ff;
  }
 .container{
     margin-bottom: 20px ;
