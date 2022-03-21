@@ -6,7 +6,8 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const taty = ["taty1.jpg","taty2.jpg","taty3.jpg","taty4.jpg","taty5.jpg","taty6.jpg","taty7.jpg","taty8.jpg"]
+const taty = ["taty1.jpg","taty2.jpg","taty3.jpg","taty4.jpg","taty5.jpg","taty6.jpg","taty7.jpg","taty8.jpg"
+,"taty9.jpg"]
 
 
 
