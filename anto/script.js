@@ -7,7 +7,7 @@ const next = document.querySelector('.next');
 let contadorImg = undefined ;
 
 const anto = [ "anto1.png","anto2.jpg","anto3.jpg","anto4.jpg","anto5.jpg","anto6.jpg",
-"anto7.jpg","anto8.jpg","anto9.jpg" ]
+"anto7.jpg","anto8.jpg","anto9.jpg","anto10.JPG","anto11.jpg","anto12.jpg","anto13.jpg","anto14.jpg" ]
 
 
 
