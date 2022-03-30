@@ -6,7 +6,7 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const tiara = [ "tiara1.jpg","tiara2.jpg","tiara3.jpg","tiara4.JPG","tiara5.jpg" ]
+const tiara = [ "tiara1.jpg","tiara2.jpg","tiara3.jpg","tiara4.JPG","tiara5.jpg","tiara6.jpg","tiara7.jpg" ]
 
 
 
