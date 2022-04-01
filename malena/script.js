@@ -9,7 +9,8 @@ let contadorImg = undefined ;
 let male = ["male1.jpg","male2.jpg","male3.jpg","male4.jpg","male5.jpeg","male6.jpeg","male7.jpeg","male8.jpeg"
 ,"male9.jpeg","male10.jpg","male11.jpg","male12.jpg","male13.jpeg","male14.jpeg","male15.jpeg",
 "male16.jpeg","male17.jpeg","male18.jpeg","male19.jpeg","male20.jpeg","male21.jpeg","male22.jpeg",
-"male23.jpeg","male24.jpeg","male25.jpeg"]
+"male23.jpeg","male24.jpeg","male25.jpeg","male26.jpg","male27.jpg","male28.jpg","male29.jpg","male30.jpg",
+"male31.jpg","male32.jpg","male33.jpg","male34.jpg","male35.jpg"]
 
 
 
