@@ -16,6 +16,23 @@ a{
     color: #039469;
     text-decoration: none;
 }
+
+.names {
+    width: 100%;
+    padding-top: 5px ;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.names a {
+    color: rgb(70, 57, 57);
+    margin: 5px 10px;
+    text-shadow: 0 0 3px white;
+}
+.names a:hover{
+    color: #00ffd9;
+}
+
  section p:first-child{
      color: #1900ff;
  }
