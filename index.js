@@ -1,6 +1,6 @@
 const names = document.querySelector('.names');
 const nombres = document.querySelectorAll('.datos');
-
+const opciones = document.querySelector('.opciones');
 
 //  nombres.forEach( N => {
 //      const link = document.createElement('a');
@@ -24,4 +24,7 @@ const nombres = document.querySelectorAll('.datos');
         names.appendChild(link)
     })
 
+   opciones.addEventListener('click',() => {
+        names.classList.toggle('show')
+   })
  
