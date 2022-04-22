@@ -6,17 +6,15 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let angela =["angela9.jpg","angela8.jpg","angela7.jpg","angela6.jpg","angela5.jpg","angela4.jpg","angela3.jpg",
-"angela1.jpg","angela11.jpg","angela12.jpg","angela13.jpg","angela14.jpg","angela15.JPG","angela16.jpg",
-"angela17.jpg","angela18.JPG","angela19.JPG","angela10.JPG","angela2.jpg","angela20.JPG",
-"angela21.jpg","angela22.jpg","angela23.jpg","angela24.jpg","angela25.jpg","angela26.jpg","angela27.jpg","angela28.jpg"
-,"angela29.jpg","angela30.jpg","angela31.jpg","angela32.jpg","angela33.jpg","angela34.jpg",
-"angela35.jpg","angela36.jpg"]
+let coty =["coty1.jpg","coty2.jpg","coty3.jpg","coty4.jpg","coty5.jpg","coty6.jpg","coty7.jpg","coty8.jpg",
+"coty9.jpg","coty10.jpg","coty11.jpg","coty12.jpg","coty13.jpg","coty14.jpg","coty15.jpg","coty16.jpg","coty17.jpg",
+"coty18.jpg"]
+
 
 
 
 // *************************
-angela.forEach( A => crearCard(A) );
+coty.forEach( A => crearCard(A) );
 container.addEventListener('click', abrirModal);
 close.addEventListener('click',cerrarModal);
 

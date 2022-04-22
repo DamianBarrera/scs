@@ -8,10 +8,10 @@ let contadorImg = undefined ;
 
 const yasmin =["yasmin1.jpeg","yasmin2.jpeg","yasmin3.jpeg","yasmin4.jpeg","yasmin5.jpeg","yasmin6.jpeg",
 "yasmin7.jpeg","yasmin8.jpeg","yasmin9.jpeg","yasmin10.jpeg","yasmin11.jpeg","yasmin12.jpeg","yasmin13.jpeg",
-"yasmin14.jpeg","yasmin15.jpeg","yasmin16.jpeg","yasmin17.jpeg","yasmin18.jpeg","yasmin19.jpeg","yasmin20.jpeg",
+"yasmin14.jpg","yasmin15.jpeg","yasmin16.jpeg","yasmin17.jpeg","yasmin18.jpeg","yasmin19.jpeg","yasmin20.jpeg",
 "yasmin21.jpeg","yasmin22.jpeg","yasmin23.jpeg","yasmin24.jpeg","yasmin25.jpeg","yasmin26.jpeg","yasmin27.jpeg",
 "yasmin28.jpeg","yasmin29.jpeg","yasmin30.jpeg","yasmin31.jpeg","yasmin32.jpeg","yasmin33.jpeg","yasmin34.jpeg"
-,"yasmin35.jpeg","yasmin36.jpeg"]
+,"yasmin35.jpeg","yasmin36.jpeg","yasmin37.jpg","yasmin38.jpg"]
 
 
 
