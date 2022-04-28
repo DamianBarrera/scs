@@ -6,8 +6,20 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const taty = ["taty1.jpg","taty2.jpg","taty3.jpg","taty4.jpg","taty5.jpg","taty6.jpg","taty7.jpg","taty8.jpg"
-,"taty9.jpg","taty10.jpg","taty11.jpg","taty12.jpg"]
+const taty = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty9.jpg?raw=true"
+]
 
 
 

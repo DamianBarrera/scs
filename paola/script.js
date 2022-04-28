@@ -6,8 +6,22 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const paola = ["paola1.jpg","paola2.jpg","paola3.jpg","paola4.jpg","paola5.jpg"
-,"paola6.jpg","paola7.jpg","paola8.jpg","sol1.jpg","sol2.jpg","sol3.jpg","sol4.jpg","sol5.jpg"]
+const paola = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/paola8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/sol1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/sol2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/sol3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/sol4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/paola/sol5.jpg?raw=true",
+    
+]
 
 
 

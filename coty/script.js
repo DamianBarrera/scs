@@ -6,9 +6,27 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let coty =["coty1.jpg","coty2.jpg","coty3.jpg","coty4.jpg","coty5.jpg","coty6.jpg","coty7.jpg","coty8.jpg",
-"coty9.jpg","coty10.jpg","coty11.jpg","coty12.jpg","coty13.jpg","coty14.jpg","coty15.jpg","coty16.jpg","coty17.jpg",
-"coty18.jpg","coty19.jpg"]
+let coty =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty13.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty15.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty16.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty17.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty18.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty19.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty9.jpg?raw=true"
+]
 
 
 

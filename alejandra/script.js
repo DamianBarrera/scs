@@ -6,7 +6,12 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let ale =["ale1.jpg","ale2.jpg","ale3.jpg","ale4.jpg","ale5.jpg","ale6.jpg"]
+let ale =["https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale1.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale2.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale3.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale4.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale5.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale6.jpg?raw=true"]
 
 
 

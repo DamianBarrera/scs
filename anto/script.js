@@ -6,8 +6,22 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const anto = [ "anto1.png","anto2.jpg","anto3.jpg","anto4.jpg","anto5.jpg","anto6.jpg",
-"anto7.jpg","anto8.jpg","anto9.jpg","anto10.JPG","anto11.jpg","anto12.jpg","anto13.jpg","anto14.jpg" ]
+const anto = [ 
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto13.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto10.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto1.png?raw=true"
+ ]
 
 
 

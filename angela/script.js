@@ -6,12 +6,42 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let angela =["angela9.jpg","angela8.jpg","angela7.jpg","angela6.jpg","angela5.jpg","angela4.jpg","angela3.jpg",
-"angela1.jpg","angela11.jpg","angela12.jpg","angela13.jpg","angela14.jpg","angela15.JPG","angela16.jpg",
-"angela17.jpg","angela18.JPG","angela19.JPG","angela10.JPG","angela2.jpg","angela20.JPG",
-"angela21.jpg","angela22.jpg","angela23.jpg","angela24.jpg","angela25.jpg","angela26.jpg","angela27.jpg","angela28.jpg"
-,"angela29.jpg","angela30.jpg","angela31.jpg","angela32.jpg","angela33.jpg","angela34.jpg",
-"angela35.jpg","angela36.jpg"]
+let angela =[
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela1.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela10.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela11.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela12.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela13.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela14.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela15.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela16.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela17.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela18.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela19.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela20.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela21.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela22.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela23.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela24.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela25.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela26.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela27.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela28.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela29.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela3.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela30.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela31.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela32.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela33.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela34.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela35.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela36.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela4.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela5.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela6.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela7.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela8.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/angela/angela9.jpg?raw=true"]
 
 
 

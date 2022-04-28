@@ -6,7 +6,22 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const valentina = [ "valen1.JPG","valen2.JPG","valen3.JPG","valen4.JPG","valen5.JPG","valen6.JPG","valen7.JPG", ]
+const valentina = [ 
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen1.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen2.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen3.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen4.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen5.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen6.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen7.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen8.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen9.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen10.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen11.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen12.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen13.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen14.png?raw=true"
+]
 
 
 

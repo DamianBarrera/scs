@@ -6,7 +6,12 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let luz =["luz1.jpg","luz2.jpg","luz3.jpg","luz4.jpg" ]
+let luz =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/luz/luz1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/luz/luz2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/luz/luz3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/luz/luz4.jpg?raw=true"
+]
 
 
 

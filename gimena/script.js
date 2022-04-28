@@ -6,9 +6,25 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let gime =["gime1.jpeg","gime2.jpeg","gime3.jpeg","gime4.jpeg","gime5.jpeg","gime6.jpeg","gime7.jpeg.jpg",
-"gime8.jpg","gime9.jpg","gime10.jpg","gime11.jpg","gime12.jpg","gime13.jpg","gime14.jpg","gime15.jpg",
-"gime16.jpg","gime17.jpg"]
+let gime =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime1.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime13.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime15.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime16.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime17.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime2.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime3.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime4.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime5.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime6.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime7.jpeg.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/gimena/gime9.jpg?raw=true"
+]
 
 
 

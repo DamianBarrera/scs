@@ -6,9 +6,28 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const maca = ["maca1.jpeg","maca2.jpeg","maca3.jpeg","maca4.jpeg","maca5.jpeg","maca6.jpeg","maca7.jpeg",
-"maca8.jpeg","maca9.jpeg","maca10.jpeg","maca11.jpeg","maca12.jpeg","maca13.jpeg","maca14.jpg","maca15.jpg","maca16.jpg","maca17.jpg"
-,"maca18.jpg","macarena19.jpg","febrero 22 jpg.jpg"]
+const maca = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca1.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca10.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca11.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca12.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca12.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca15.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca16.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca17.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca18.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca2.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca3.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca4.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca5.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca6.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca7.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca8.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca9.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/macarena19.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/febrero%2022%20jpg.jpg?raw=true"
+]
 
 
 

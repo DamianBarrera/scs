@@ -6,7 +6,13 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const euge = ["euge1.jpeg","euge2.jpeg","euge3.jpeg","euge4.jpeg","euge5.jpeg"]
+const euge = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/euge/euge1.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/euge/euge2.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/euge/euge3.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/euge/euge4.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/euge/euge5.jpeg?raw=true"
+]
 
 
 

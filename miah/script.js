@@ -6,9 +6,29 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const miah = ["miah1.jpg","miah2.jpg","miah3.jpg","miah4.jpg","miah5.jpg","miah6.jpg","miah7.jpg","miah8.jpg"
-,"miah9.jpg","miah10.jpg","miah11.jpg","miah12.jpg","miah13.jpg","miah14.jpg","miah15.jpg","miah16.jpg","miah17.jpg"
-,"miah18.jpg","miah19.jpg"]
+const miah = [
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah1.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah10.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah11.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah12.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah13.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah14.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah15.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah16.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah17.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah18.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah19.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah2.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah20.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah3.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah4.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah5.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah6.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah7.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah8.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah9.jpg?raw=true"
+
+]
 
 
 

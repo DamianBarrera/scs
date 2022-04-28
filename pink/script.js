@@ -6,8 +6,17 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const pink = [ "pink1.jpg","pink2.jpg","pink3.jpg","pink4.jpg","pink5.jpg","pink6.jpg","pink7.jpg"
-,"pink8.jpg","pink9.jpg" ]
+const pink = [ 
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/pink/pink9.jpg?raw=true"
+]
 
 
 

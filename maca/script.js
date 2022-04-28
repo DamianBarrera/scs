@@ -6,7 +6,13 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const maca = ["maca1.jpg","maca2.jpg","maca3.jpg","maca4.jpg","maca5.jpg" ]
+const maca = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/maca/maca1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/maca/maca2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/maca/maca3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/maca/maca4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/maca/maca5.jpg?raw=true"
+ ]
 
 
 

@@ -6,14 +6,50 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let flor = ["bar1.jpg","bar2.jpg","bar3.jpg","bar4.jpg","bar5.jpg","bar6.jpg","bar7.jpg","bar8.jpg","bar9.jpg"
-,"bar10.jpg","bar11.jpg","bar12.jpg","bar13.jpg","bar14.jpg","bar15.jpg","bar16.jpg","bar17.jpg","bar18.jpg",
-"bar19.jpg","bar20.jpg","bar21.jpg","bar22.jpg","bar23.jpg","bar24.jpeg","bar25.jpeg"
-,"bar26.jpeg","bar26.jpeg","bar27.jpeg","bar28.jpeg","bar28.jpeg","bar29.jpeg","bar30.jpeg"
-,"bar31.jpeg","bar32.jpeg","bar33.jpeg","bar34.jpeg","bar35.jpeg","bar36.jpeg","bar37.jpeg"
-,"bar38.jpeg","bar39.jpeg","bar40.jpeg","bar41.jpeg"]
+let flor = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar13.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar15.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar16.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar17.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar18.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar19.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar20.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar21.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar22.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar23.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar24.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar25.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar26.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar27.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar28.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar29.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar30.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar31.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar32.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar33.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar34.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar35.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar36.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar37.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar38.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar39.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar40.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/flor_barbie/bar41.jpeg?raw=true",
 
-
+]
 
 
 // *************************

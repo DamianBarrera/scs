@@ -6,11 +6,43 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let male = ["male1.jpg","male2.jpg","male3.jpg","male4.jpg","male5.jpeg","male6.jpeg","male7.jpeg","male8.jpeg"
-,"male9.jpeg","male10.jpg","male11.jpg","male12.jpg","male13.jpeg","male14.jpeg","male15.jpeg",
-"male16.jpeg","male17.jpeg","male18.jpeg","male19.jpeg","male20.jpeg","male21.jpeg","male22.jpeg",
-"male23.jpeg","male24.jpeg","male25.jpeg","male26.jpg","male27.jpg","male28.jpg","male29.jpg","male30.jpg",
-"male31.jpg","male32.jpg","male33.jpg","male34.jpg","male35.jpg"]
+let male = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male5.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male6.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male7.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male8.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male9.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male13.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male14.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male15.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male16.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male17.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male18.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male19.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male20.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male21.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male22.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male23.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male24.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male25.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male26.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male27.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male28.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male29.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male30.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male31.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male32.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male33.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male34.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male35.jpg?raw=true",
+]
 
 
 

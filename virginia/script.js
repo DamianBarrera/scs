@@ -6,7 +6,11 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const virgi =["vir1.png","vir2.JPG","vir3.JPG"]
+const virgi =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/virginia/vir1.png?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/virginia/vir2.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/virginia/vir3.JPG?raw=true"
+]
 
 
 

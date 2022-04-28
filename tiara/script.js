@@ -6,7 +6,15 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const tiara = [ "tiara1.jpg","tiara2.jpg","tiara3.jpg","tiara4.JPG","tiara5.jpg","tiara6.jpg","tiara7.jpg" ]
+const tiara = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara4.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/tiara/tiara7.jpg?raw=true"
+ ]
 
 
 

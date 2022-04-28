@@ -6,7 +6,15 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let camila =["cami1.jpg","cami2.jpg","cami3.jpg","cami4.jpg","cami5.jpg","cami6.jpg","cami7.jpg"]
+let camila =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/camila/cami7.jpg?raw=true"
+]
 
 
 

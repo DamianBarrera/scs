@@ -6,12 +6,48 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-const yasmin =["yasmin1.jpeg","yasmin2.jpeg","yasmin3.jpeg","yasmin4.jpeg","yasmin5.jpeg","yasmin6.jpeg",
-"yasmin7.jpeg","yasmin8.jpeg","yasmin9.jpeg","yasmin10.jpeg","yasmin11.jpeg","yasmin12.jpeg","yasmin13.jpeg",
-"yasmin14.jpg","yasmin15.jpeg","yasmin16.jpeg","yasmin17.jpeg","yasmin18.jpeg","yasmin19.jpeg","yasmin20.jpeg",
-"yasmin21.jpeg","yasmin22.jpeg","yasmin23.jpeg","yasmin24.jpeg","yasmin25.jpeg","yasmin26.jpeg","yasmin27.jpeg",
-"yasmin28.jpeg","yasmin29.jpeg","yasmin30.jpeg","yasmin31.jpeg","yasmin32.jpeg","yasmin33.jpeg","yasmin34.jpeg"
-,"yasmin35.jpeg","yasmin36.jpeg","yasmin37.jpg","yasmin38.jpg","yasmin39.jpg","yasmin40.jpg"]
+const yasmin =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin1.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin10.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin11.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin12.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin13.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin15.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin16.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin17.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin18.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin19.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin2.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin20.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin21.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin22.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin23.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin24.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin25.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin26.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin27.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin28.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin29.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin3.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin30.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin31.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin32.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin33.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin34.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin35.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin36.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin37.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin38.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin39.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin4.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin40.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin5.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin6.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin7.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin8.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin9.jpeg?raw=true"
+]
 
 
 

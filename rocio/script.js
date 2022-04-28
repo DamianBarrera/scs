@@ -6,8 +6,18 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 let contadorImg = undefined ;
 
-let rocio =["rocio1.jpg","rocio2.jpg","rocio3.jpg","rocio4.jpg","rocio5.jpg","rocio6.jpg",
-"rocio7.jpg","rocio8.jpg","rocio9.jpg","rocio10.jpg"]
+let rocio =[
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio1.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/rocio/rocio10.jpg?raw=true"
+]
 
 
 
