@@ -46,7 +46,8 @@ const yasmin =[
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin6.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin7.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin8.jpeg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin9.jpeg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin9.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin41.jpg?raw=true"
 ]
 
 

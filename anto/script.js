@@ -20,7 +20,8 @@ const anto = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto12.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto11.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto10.JPG?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto1.png?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto1.png?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto15.jpg?raw=true"
  ]
 
 
