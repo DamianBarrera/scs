@@ -20,7 +20,8 @@ const valentina = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen11.JPG?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen12.JPG?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen13.JPG?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen14.png?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen14.png?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/valentina/valen15.jpg?raw=true"
 ]
 
 
