@@ -11,7 +11,6 @@ const maca = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca10.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca11.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca12.jpeg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca12.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca14.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca15.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca16.jpg?raw=true",
@@ -29,6 +28,7 @@ const maca = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca20.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/macarena21.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/macarena22.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca23.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/febrero%2022%20jpg.jpg?raw=true"
 ]
 

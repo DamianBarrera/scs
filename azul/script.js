@@ -40,7 +40,8 @@ const azul = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul8.JPG?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul9.JPG?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul33.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul34.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul34.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/azul/azul35.jpg?raw=true"
     
 ]
 
