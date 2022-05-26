@@ -29,6 +29,7 @@ const maca = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/macarena21.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/macarena22.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca23.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca24.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/febrero%2022%20jpg.jpg?raw=true"
 ]
 
