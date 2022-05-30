@@ -19,7 +19,8 @@ const taty = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty7.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty8.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty9.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty13.jpeg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty13.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty14.jpeg?raw=true"
 ]
 
 
