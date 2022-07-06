@@ -26,7 +26,8 @@ const nombreChica = [
 "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah7.jpg?raw=true",
 "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah8.jpg?raw=true",
 "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah9.jpg?raw=true",
-"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah21.jpg?raw=true"
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah21.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/miah/miah22.jpg?raw=true"
 
 ]
 

@@ -47,7 +47,16 @@ const nombreChica =[
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin8.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin9.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin41.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin42.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin42.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin43.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin44.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin45.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin46.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin47.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin48.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin49.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin50.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin51.jpeg?raw=true"
 ]
 
 let indiceImagen = undefined ;

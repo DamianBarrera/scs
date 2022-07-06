@@ -24,7 +24,9 @@ let nombreChica =[
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty6.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty7.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty8.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty9.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty20.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/coty/coty21.jpg?raw=true"
 ]
 
 let indiceImagen = undefined ;

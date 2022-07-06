@@ -7,25 +7,30 @@ const next = document.querySelector('.next');
 let contadorImg = undefined ;
 
 const nombreChica = [ 
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto9.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto8.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto7.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto6.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto5.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto4.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto3.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto2.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto14.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto13.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto12.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto11.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto10.JPG?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto1.png?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto15.jpg?raw=true"
- ]
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto2.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto3.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto4.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto5.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto6.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto7.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto8.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto10.JPG?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto12.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto13.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto14.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto15.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto16.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto17.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto18.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto19.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto20.jpg?raw=true"
+]
 
- let indiceImagen = undefined ;
- let cantidadImagenes = nombreChica.length
+let indiceImagen = undefined ;
+let cantidadImagenes = nombreChica.length
  
  // *************************
  nombreChica.forEach( A => crearCard(A) );

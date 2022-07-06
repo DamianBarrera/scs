@@ -6,6 +6,7 @@ const prev = document.querySelector('.prev');
 const next = document.querySelector('.next'); 
 
 const nombreChica = [
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/febrero%2022%20jpg.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca1.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca2.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca3.jpeg?raw=true",
@@ -34,7 +35,16 @@ const nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca26.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca27.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca28.jpeg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/febrero%2022%20jpg.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca29.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca30.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca31.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca32.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca33.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca34.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca35.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca36.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca37.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/macarena/maca38.jpeg?raw=true"
 ]
 
 let indiceImagen = undefined ;

@@ -5,8 +5,17 @@ const close = document.querySelector('.close');
 const prev = document.querySelector('.prev'); 
 const next = document.querySelector('.next'); 
 
-let nombreChica =["./58f9604bc6794436adba083da2d405b5.jpg","./ale1.jpg","ale10.jpg","ale2.jpg"
-,"ale3.jpg","./ale4.jpg","ale5.jpg"]
+let nombreChica =["https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale1.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale2.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale3.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale4.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale5.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale6.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale7.jpg?raw=truerd",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale8.JPG?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale9.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale10.jpg?raw=true",
+"https://github.com/DamianBarrera/imagenes/blob/main/imagenes/alejandra/ale11.jpg?raw=true"]
 
  
 
