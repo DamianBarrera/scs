@@ -7,9 +7,6 @@ const next = document.querySelector('.next');
 
 const nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty1.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty10.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty11.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty12.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty2.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty3.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty4.jpg?raw=true",
@@ -18,6 +15,9 @@ const nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty7.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty8.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty9.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty10.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty11.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty12.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty13.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/taty/taty14.jpeg?raw=true"
 ]
