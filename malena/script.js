@@ -46,7 +46,20 @@ let nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male38.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male39.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male40.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male41.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male41.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male42.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male43.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male44.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male45.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male46.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male47.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male48.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male49.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male50.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male51.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male52.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male53.jpg?raw=true"
+
 ]
 
 let indiceImagen = undefined ;
