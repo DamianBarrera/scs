@@ -1,6 +1,15 @@
 const names = document.querySelector('.names');
 const nombres = document.querySelectorAll('.datos');
 const opciones = document.querySelector('.opciones');
+const arrowUP = document.querySelector('.arrowUp')
+
+document.addEventListener('scroll', () => {
+    if(document.documentElement.scrollTop > 300) {
+         document.querySelector('.arrowUp').classList.remove('hidden')
+    }else {
+        document.querySelector('.arrowUp').classList.add('hidden')
+    }
+})
 
     const dataName = [] ;
     nombres.forEach( N => {
@@ -22,4 +31,9 @@ const opciones = document.querySelector('.opciones');
     if(e.key === 'Escape'){
         names.classList.remove('show')
     }
+ })
+
+
+ arrowUP.addEventListener('click', ()=> {
+    window.scrollTo({behavior:"smooth", top:0})
  })

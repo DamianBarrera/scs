@@ -26,7 +26,8 @@ const nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto17.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto18.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto19.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto20.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto20.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/anto/anto21.jpg?raw=true"
 ]
 
 let indiceImagen = undefined ;
