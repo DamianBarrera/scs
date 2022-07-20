@@ -5,7 +5,10 @@
     font-size: 20px;
 }
 body{
-    background-color: #eb9f59;
+    padding: 50px 10px;
+    background-color: #1a1522;
+    overflow-x:hidden ;
+    position: relative;
 }
 img{
     width: 100%;
@@ -21,12 +24,13 @@ a{
  .opciones{
      width: 100%;
      margin: 10px 20px;
-     color: rgb(31, 17, 157);
+     color: rgb(255, 255, 255);
      display: inline-block;
      text-align: center;
      font-size: 1.6em;
      font-weight: 600;
-     cursor: pointer    ;
+     cursor: pointer;
+ 
  }
 
 .hidden {
@@ -60,7 +64,7 @@ a{
     height: 300px;
     overflow-y: scroll;
     padding-top: 5px ;
-    background: #8cc7f5;
+    background: #1f3648;
     display: none;
     flex-direction: column;
     align-items: center;
@@ -68,20 +72,38 @@ a{
 }
 .names a {
     font-size: 1.2em;
-    color: rgb(70, 57, 57);
+    color: rgb(255, 255, 255);
     margin: 5px 10px;
-    text-shadow: 0 0 3px white;
+    text-shadow: 0 0 1px white;
     text-transform: capitalize;
  
 }
 .names a:hover{
     color: #f00abb;
 }
+.names::-webkit-scrollbar {
+    background-color: #000;
+    width: 5px;
+}
+.names::-webkit-scrollbar-thumb{
+    background-color: #493596;
+
+}
 
  section p:first-child{
      color: #1900ff;
  }
+
+ .select-container{
+     width: 100%;
+     margin: 0 auto;
+     background-color: #291b3c;
+     position: fixed;
+     top: 0;
+     left: 0;
+ }
 .container{
+    width: 100%;
     margin-bottom: 20px ;
     padding: 5px;
     padding-left: 10px;
@@ -91,11 +113,10 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-radius: 5px ;
 }
 .datos{
-   
     width: 60%;
-    
 }
 .foto{
     width: 40%;
@@ -189,4 +210,11 @@ video{
 
 .show{
     display: flex;
+}
+
+
+@media screen and (max-width:380px ){
+    body {
+        padding: 0 ;
+    }
 }
