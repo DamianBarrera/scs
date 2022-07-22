@@ -58,7 +58,9 @@ let nombreChica = [
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male50.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male51.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male52.jpg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male53.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male53.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male54.jpeg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/malena/male55.jpeg?raw=true"
 
 ]
 
