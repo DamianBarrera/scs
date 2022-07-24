@@ -57,7 +57,9 @@ const nombreChica =[
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin49.jpg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin50.jpeg?raw=true",
     "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin51.jpeg?raw=true",
-    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin52.jpg?raw=true"
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin52.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin53.jpg?raw=true",
+    "https://github.com/DamianBarrera/imagenes/blob/main/imagenes/yasmin/yasmin54.jpg?raw=true"
 ]
 
 let indiceImagen = undefined ;
